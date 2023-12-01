@@ -34,7 +34,7 @@ where B11(U,V) is an m-by-m matrix, B12(U,V) is an p-by-p matrix, B21(U,V) is an
 
 ## References
 
-[Bin Gao](https://www.gaobin.cc/), Renfeng Peng, [Ya-xiang Yuan](http://lsec.cc.ac.cn/~yyx/index.html)
+[Bin Gao](https://www.gaobin.cc/), [Renfeng Peng](https://jimmypeng1998.github.io/index.html), [Ya-xiang Yuan](http://lsec.cc.ac.cn/~yyx/index.html)
 
 - [Optimization on product manifolds under a preconditioned metric](https://arxiv.org/abs/2306.08873)
 
